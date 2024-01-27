@@ -401,7 +401,7 @@ canvas {
 }
 #page7 > #right-text > h3 {
   font-size: 45px;
-  margin-left: 2%;
+  margin: 10px;
   color: black;
 }
 #page7 > #right-text > h1 {
@@ -474,5 +474,5 @@ canvas {
   width: 560px;
   border-radius: 8px;
   margin-top: 0%;
-  margin-right: 2.4%;
+  margin-left: 20px;
 }
